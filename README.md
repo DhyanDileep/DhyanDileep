@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dhyan 👋<br><br>🚀 About Me<br><br>🎓 BCA 1st Year Student<br><br>💻 Beginner in Coding but eager to learn and grow<br><br>⚡ Fun Fact: I enjoy solving coding challenges and building small projects<br>
+Hi, I'm Dhyan 👋<br><br>🚀 About Me<br><br>🎓 BCA 2nd Year Student<br><br>💻 Beginner in Coding but eager to learn and grow<br><br>⚡ Fun Fact: I enjoy solving coding challenges and building small projects<br>
 
 
 ## 🌐 Socials:
