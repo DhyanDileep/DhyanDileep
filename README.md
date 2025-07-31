@@ -1,4 +1,4 @@
-[![Banner]([image_url](https://github.com/user-attachments/assets/93c8bf41-065b-4d30-8373-66cf68248d93))]([link_url](https://www.instagram.com/dyandileep?igsh=aDVkYnd6bm50YXlv))
+[![Banner](https://github.com/user-attachments/assets/93c8bf41-065b-4d30-8373-66cf68248d93)](https://www.instagram.com/dyandileep?igsh=aDVkYnd6bm50YXlv)
 # 💫 About Me:
 Hi, I'm Dhyan 👋<br><br>🚀 About Me<br><br>🎓 BCA 2nd Year Student<br><br>💻 Beginner in Coding but eager to learn and grow<br><br>⚡ Fun Fact: I enjoy solving coding challenges and building small projects<br>
 
