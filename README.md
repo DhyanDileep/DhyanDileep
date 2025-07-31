@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/d418b95b-7fd5-4cd1-9a77-378c8c4766da)](https://www.instagram.com/dyandileep?igsh=aDVkYnd6bm50YXlv)
+[![Banner](https://github.com/user-attachments/assets/d418b95b-7fd5-4cd1-9a77-378c8c4766da)](https://www.instagram.com/dyandileep?igsh=aDVkYnd6bm50YXlv)
 # 💫 About Me:
 Hi, I'm Dhyan 👋<br><br>🚀 About Me<br><br>🎓 BCA 2nd Year Student<br><br>💻 Beginner in Coding but eager to learn and grow<br><br>⚡ Fun Fact: I enjoy solving coding challenges and building small projects<br>
 
