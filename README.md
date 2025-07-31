@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/3413a1c3-1ad4-43cc-8157-9ff5f3c705e3)
 # 💫 About Me:
 Hi, I'm Dhyan 👋<br><br>🚀 About Me<br><br>🎓 BCA 2nd Year Student<br><br>💻 Beginner in Coding but eager to learn and grow<br><br>⚡ Fun Fact: I enjoy solving coding challenges and building small projects<br>
 
